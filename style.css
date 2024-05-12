@@ -1,8 +1,16 @@
 /* hi */
 
+@font-face {
+    font-family: 'Rubik';
+    src: url('fonts/rubik-regular.woff2') format('woff2'),
+         url('fonts/rubik-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
   background-color: #1a0f0e;
   color: #e6e6e6;
-  font-size: 12px;
-  font-family: rubik;
+  font-size: 14px;
+  font-family: 'Rubik';
 }
