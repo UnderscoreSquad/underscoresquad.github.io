@@ -2,8 +2,7 @@
 
 @font-face {
     font-family: 'Rubik';
-    src: url('fonts/rubik-regular.woff2') format('woff2'),
-         url('fonts/rubik-regular.woff') format('woff');
+    src: url('fonts/rubik-regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
